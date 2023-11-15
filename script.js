@@ -54,7 +54,7 @@ btnRoll.addEventListener('click', function () {
     diceEl.classList.remove('hidden');
 
     //resmin sayıya denk gelmesi için
-    diceEl.src = `img/dice-${dice}.png`;
+    diceEl.src = `dice-${dice}.png`;
 
     //3- 1 in atılıp atılmadığı kontrol edilir
     if (dice !== 1) {
