@@ -1,16 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
 }
-
 html {
   font-size: 62.5%;
   box-sizing: border-box;
 }
-
 body {
   font-family: "Nunito", sans-serif;
   font-weight: 400;
@@ -21,7 +18,6 @@ body {
   align-items: center;
   justify-content: center;
 }
-
 /* LAYOUT */
 main {
   position: relative;
@@ -113,11 +109,9 @@ main {
   cursor: pointer;
   font-weight: 400;
   transition: all 0.2s;
-
   background-color: white;
   background-color: rgba(255, 255, 255, 0.6);
   backdrop-filter: blur(10px);
-
   padding: 0.7rem 2.5rem;
   border-radius: 50rem;
   box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
