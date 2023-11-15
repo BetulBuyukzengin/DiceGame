@@ -3,23 +3,23 @@ const score0El = document.getElementById('score--0');
 const score1El = document.getElementById('score--1');
 const current0El = document.getElementById('current--0');
 const current1El = document.getElementById('current--1');
-const diceEl = document.querySelector('.dice'); 
+const diceEl = document.querySelector('.dice');
 const btnNew = document.querySelector('.btn--new');
 const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
 const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
 
-let scores,currentScore,activePlayer,playing;
+let scores, currentScore, activePlayer, playing;
 
 //starting code
 const init = function () {
   //ilk puanlar , 0.indisteki 1.player 1.indisteki 2.player
 
-   scores = [0, 0];
-   currentScore = 0;
-   activePlayer = 0;
-   playing = true;
+  scores = [0, 0];
+  currentScore = 0;
+  activePlayer = 0;
+  playing = true;
 
   score0El.textContent = 0;
   score1El.textContent = 0;
@@ -40,7 +40,6 @@ const switchPlayer = function () {
   document.getElementById(`current--${activePlayer}`).textContent = 0;
   currentScore = 0;
   activePlayer = activePlayer === 0 ? 1 : 0;
-  //toggle ile eğer sınıf yoksa eklemk  varsa kaldırmak
   player0El.classList.toggle('player--active');
   player1El.classList.toggle('player--active');
 };
