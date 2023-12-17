@@ -18,6 +18,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+
+/* sd */
 /* LAYOUT */
 main {
   position: relative;
@@ -51,6 +54,8 @@ main {
   font-weight: 300;
   margin-bottom: 1rem;
 }
+
+
 
 .score {
   font-size: 8rem;
@@ -126,6 +131,7 @@ main {
 .btn--new {
   top: 4rem;
 }
+
 .btn--roll {
   top: 39.3rem;
 }
@@ -151,6 +157,7 @@ main {
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
 }
 
+
 .player--winner {
   background-color: #2f2f2f;
 }
@@ -162,3 +169,64 @@ main {
 .hidden {
   display: none;
 }
+
+/** Responsive */
+/* 1800 px */
+@media only screen and (min-width: 112.5em) {
+  html {
+    font-size: 65% !important;
+  }
+  main{
+    width: 100rem;
+  }
+}
+
+/* 1200 px */
+@media only screen and (max-width: 75em) {
+  html {
+    font-size: 52% !important;
+  }
+}
+
+/*900 px*/
+@media only screen and (max-width: 56.25em) {
+  html {
+    font-size: 48% !important;
+  }
+  main{
+    width: auto;
+  }
+}
+
+/* 600 px*/
+@media only screen and (max-width: 37.5em) {
+  html {
+    font-size: 40% !important;
+  }
+  main {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+  } 
+  .name {
+    font-size: 2.5rem;
+  }
+  .btn--new {
+    top:2rem;
+    font-size: 1.6rem;
+    padding: 1rem;
+  }
+  .current{
+    padding: 1rem;
+    width: 45%;
+  }
+  .btn{
+    padding: 0.7rem;
+    width: auto;
+  }
+  .dice{
+    height: 7rem;
+  }
+}
+
