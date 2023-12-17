@@ -174,7 +174,7 @@ main {
 /* 1800 px */
 @media only screen and (min-width: 112.5em) {
   html {
-    font-size: 65% !important;
+    font-size: 100% !important;
   }
   main{
     width: 100rem;
