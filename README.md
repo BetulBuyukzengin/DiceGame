@@ -10,35 +10,15 @@
 
 <h3>🔴Projenin deploy edilmiş versiyonu : <a href="https://game-one-alpha.vercel.app/">Dice Game</a></h3>
  
-
-
 <h2> 🛠 Kullandığım teknolojiler:</h2>
 <div style ="display:flex;">
 <img src="./icon/html-icon.png"/>
 <img src="./icon/css-icon.png"/>
 <img src="./icon/npm-icon.png"/>
 </div>
-
 <h2> GÖRSELLER :</h2>
-<h2 align="center">HEADER SECTION</h2>
-<img src="readme-img/natours1.png"/>
-<h2 align="center">ABOUT SECTION</h2>
-<img src="readme-img/natours2.png"/>
-<h2 align="center">FEATURES SECTION</h2>
-<img src="readme-img/natours3.png"/>
-<h2 align="center">TOURS SECTION</h2>
-<img src="readme-img/natours4.png"/>
-<h2 align="center">TOURS SECTION HOVER</h2>
-<img src="readme-img/natours4_1.png"/>
-<h2 align="center">STORIES SECTION</h2>
-<img src="readme-img/natours5.png"/>
-<h2 align="center">BOOKING SECTION</h2>
-<img src="readme-img/natours6.png"/>
-<h2 align="center">FOOTER SECTION</h2>
-<img src="readme-img/natours7.png"/>
-<h2 align="center">NAVIGATION SECTION</h2>
-<img src="readme-img/natours8.png"/>
-<h2 align="center">MODAL SECTION</h2>
-<img src="readme-img/natours9.png"/>
+<img src="img/dice.png"/>
+<img src="img/diceGameStart.png"/>
+<img src="img/winGame.png"/>
 
 
