@@ -8,7 +8,7 @@
 *Eğer oyuncu 1 rakamını atarsa sıra diğer oyuncuya geçer ve current deki topladığı puanlar sıfırlanır.<br>
 *Score da minimum 101 puana erişen ilk oyuncu oyunu kazanır.<br>
 
-<h3>🔴Projenin deploy edilmiş versiyonu : <a href="https://game-one-alpha.vercel.app/">Dice Game</a></h3>
+<h3>🔴Projenin deploy edilmiş versiyonu : <a href="https://dice-game-betul.netlify.app/">Dice Game</a></h3>
  
 <h2> 🛠 Kullandığım teknolojiler:</h2>
 <div style ="display:flex;">
