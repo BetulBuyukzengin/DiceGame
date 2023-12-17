@@ -14,11 +14,11 @@
 <div style ="display:flex;">
 <img src="./icon/html-icon.png"/>
 <img src="./icon/css-icon.png"/>
-<img src="./icon/npm-icon.png"/>
+<img src="./icon/js-icon.png"/>
 </div>
 <h2> GÖRSELLER :</h2>
-<img src="img/dice.png"/>
 <img src="img/diceGameStart.png"/>
+<img src="img/dice.png"/>
 <img src="img/winGame.png"/>
 
 
