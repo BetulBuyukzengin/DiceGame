@@ -1,1 +1,1 @@
-<h2>Deploy Project:<a href="https://game-one-alpha.vercel.app/"</a></h2>
+<h2>Deploy Project:</h2><a href="https://game-one-alpha.vercel.app/" Dice Game</a>
