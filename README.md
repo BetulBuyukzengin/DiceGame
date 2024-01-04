@@ -1,6 +1,5 @@
 <h1 align="center">🎲 DICE GAME </h1>
-<!-- DICE GAME i, The Complate Javascript Course - 'Jonas Schmedtmann' eşliğinde  oluşturdum.-->
-
+<h2>Jonas Schmedtmann eşliğinde  oluşturduğum bu eğlenceli oyunu keşfedin </h2>
 <h2>Hakkında:</h2>
 ✨ 2 oyuncu ile oynanan zevkli mini oyun projesidir. Tüm cihazlarla uyumlu yapıdadır (responsive).
 *Sırası gelen oyuncu zar atarak oyuna başlar. <br>
